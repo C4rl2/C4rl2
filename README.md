@@ -58,13 +58,13 @@ const Carla = {
 
 ---
 
-## Projets en vedette
+## Projects
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
 | [Gomoku](https://github.com/C4rl2/gomoku) | Gomoku playable against an AI on the web | `C++` `WASM` |
 | [Philosophers](https://github.com/C4rl2/Philosophers_42) | A concurrent simulation of the classic Dining Philosophers Problem | `C` `POSIX threads & mutexes` |
-| [One Noobiece](OneNoobiece.fr) | A companion website for One Piece fans, mobile-first | `Next.js` `API` `Tailwind CSS` `TypeScript` `PostgreSQL` |
+| [One Noobiece](<https://OneNoobiece.fr>) | A companion website for One Piece fans, mobile-first | `Next.js` `API` `Tailwind CSS` `TypeScript` `PostgreSQL` |
 
 
 ---
